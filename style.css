@@ -1,0 +1,26 @@
+#container1{
+ 	margin: 20px;
+    padding: 20px;
+    padding-right:240px;
+    background: #fff;
+    overflow:hidden;
+}
+
+#column1{
+	float: left;
+	position: absolute;
+	width: 200px;
+	background-color: #fdd310;
+	display: block;
+}
+
+#column2{
+	background-color: #52dbef; 
+	margin: 0 -220px 0 auto;
+    width: 100%;
+    float:right;
+}
+
+.pic{
+	height: 50px;
+}
